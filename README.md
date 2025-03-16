@@ -1,10 +1,10 @@
 # RTA
-A robot.txt crawler that finds robot,txt in websites or IP at the chosen depth
-use the tool with -h or --help command to list how it can be used
+A robot.txt crawler that finds robot.txt in websites or IP at the chosen depth.
+Use the tool with -h or --help command to list how it can be used.
 Must know:
-when you choose a depth, it doesnt automatically start from that depth, it builds up to MAXIMUM that level
+when you choose a depth, it doesnt automatically start from that depth, it builds up to MAXIMUM that level.
 Example:
-python rta.py -d 2 https://www.example.com     goes MAXIMUM to depth level 3 
+python rta.py -d 2 https://www.example.com     goes MAXIMUM to depth level 3.
 
 the -h/--help command:
                                                                                                                                                                  
